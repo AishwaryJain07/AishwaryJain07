@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Aishwary Jain
+- 🌱 I’m currently pursuing BTech 
