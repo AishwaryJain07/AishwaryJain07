@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Aishwary Jain
-- 🌱 I’m currently pursuing BTech 
+- 🌱 CS student at Jaypee University of Engineering and Technology
