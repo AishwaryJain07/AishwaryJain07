@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Aishwary Jain
-- 🌱 CS student at Jaypee University of Engineering and Technology
+- 🌱 CSE'26, JUET 
