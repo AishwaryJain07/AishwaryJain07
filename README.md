@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Aishwary Jain
-- 🌱 CSE'26, JUET 
