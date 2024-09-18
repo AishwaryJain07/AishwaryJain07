@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Aishwary Jain
+- 👋 Hi, I’m Aishwary Jain. I'm a computer science undergraduate in 3rd year, from India
 -    My skills include Django, Python, C, C++, AWS cloud(learning)
 -    Looking forward for internship positions that offers decent experience
