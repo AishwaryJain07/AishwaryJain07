@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Aishwary Jain. I'm a computer science undergraduate in 3rd year, from India
--    My skills include Django, Python, C, C++, AWS cloud(learning)
+Hello, i'm Aishwary jain, a Final year Computer Science undergradudate from india.
+Glad to get a Visitor here 😃😉
