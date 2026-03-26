@@ -22,9 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,django,mysql,postgres,aws,docker,git" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,django,mysql,postgres,aws,docker,git" />
 </p>
 
 ---
@@ -32,23 +30,23 @@
 ## 🚀 Featured Projects
 
 ### 🔗 URL Shortener (Production Ready)
-- ⚡ Low latency redirection
-- 🔐 Auth + Rate limiting
-- 📊 Click analytics
+- ⚡ Low latency redirection  
+- 🔐 Auth + Rate limiting  
+- 📊 Click analytics  
 - ☁️ Cloud ready (Render + DB)
 
 ---
 
 ### 📊 AI Resume Analyzer
-- 🧠 NLP using spaCy
-- 📈 ATS Score (TF-IDF + Cosine Similarity)
-- 📄 Resume vs JD matching
+- 🧠 NLP using spaCy  
+- 📈 ATS Score (TF-IDF + Cosine Similarity)  
+- 📄 Resume vs JD matching  
 
 ---
 
 ### ✈️ Flights App
-- Django-based flight manager
-- CRUD + DB relations
+- Django-based flight manager  
+- CRUD + DB relations  
 
 🔗 Repo:  
 👉 https://github.com/AishwaryJain07/Flights_app
@@ -100,21 +98,3 @@
 + Build real-world scalable systems
 + Focus on backend performance
 + Learn → Build → Deploy → Repeat
-
-
-### 1. Add Snake Animation (IMPORTANT)
-Run GitHub Action:
-```bash
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AishwaryJain07
