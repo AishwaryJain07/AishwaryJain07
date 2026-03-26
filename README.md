@@ -10,8 +10,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 Final Year CSE @ Jaypee University (CGPA: 8.0)
-- 💻 Full Stack Developer (Django + JS)
+- 🎓 Final Year CSE @ Jaypee University (2022-2026)
 - ☁️ Learning AWS & Cloud Deployment
 - 🤖 Exploring AI + NLP
 - 📈 Focused on scalable backend systems
@@ -70,13 +69,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AishwaryJain07/AishwaryJain07/output/snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -90,11 +82,7 @@
 </a>
 </p>
 
----
-
-## ⚡ Developer Mindset
-
 ```diff
-+ Build real-world scalable systems
-+ Focus on backend performance
-+ Learn → Build → Deploy → Repeat
++ I Build real-world scalable systems
++ I Focus on backend performance
++ I Learn → Build → Deploy → Repeat
