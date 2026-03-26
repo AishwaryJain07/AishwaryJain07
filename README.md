@@ -100,3 +100,21 @@
 + Build real-world scalable systems
 + Focus on backend performance
 + Learn → Build → Deploy → Repeat
+
+
+### 1. Add Snake Animation (IMPORTANT)
+Run GitHub Action:
+```bash
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AishwaryJain07
