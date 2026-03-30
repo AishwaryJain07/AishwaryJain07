@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishwary Jain</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?color=6e53be&center=true&vCenter=true&lines=Artificial+Intelligence;Machine+Learning;LangChain+LangGraph;Python+Developer;AWS+Learner;Django+Backend+Engineer;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?color=6e53be&center=true&vCenter=true&speed=100&lines=Artificial+Intelligence;Machine+Learning;LangChain+LangGraph;Python+Developer;AWS+Learner;Django+Backend+Engineer;Building+Scalable+Systems" />
 </p>
 
 ---
